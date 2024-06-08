@@ -10,7 +10,7 @@ By click on this link "https://tomato-zarla-48.tiiny.site"
 
 ### Download App:
 You can download this app:
-By click on this: "b.com/AiZaNaDeEm16/Calculator/a[app-release.zip](https://github.com/user-attachments/files/15747445/app-release.zip)"
+By click on this: "(https://github.com/user-attachments/files/15747445/app-release.zip)"
 
 ### Output
 
