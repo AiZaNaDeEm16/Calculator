@@ -15,7 +15,7 @@ By click on this: "b.com/AiZaNaDeEm16/Calculator/a[app-release.zip](https://gith
 ### Output
 
 The Dark theme output is given below:
-ssets/158503156/07934403-edee-474d-87b0-3cf3bdc156f3)
+![Calculator-dark](https://github.com/AiZaNaDeEm16/Calculator/assets/158503156/b0a087b9-3b0c-4c8a-94e4-ff0a51d5cd4e)
 
 The Light theme output is given below:
 ![Calculator-light](https://github.com/AiZaNaDeEm16/Calculator/assets/158503156/bea44ce3-3a34-4d36-8293-5bbd557bdfc2)
